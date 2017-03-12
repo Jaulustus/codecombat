@@ -1,11 +1,11 @@
 module.exports = nativeDescription: "Deutsch (Österreich)", englishDescription: "German (Austria)", translation:
 #  new_home:
 #    slogan: "The most engaging game for learning programming."
-#    classroom_edition: "Classroom Edition:"
-#    learn_to_code: "Learn to code:"
-#    play_now: "Play Now"
-#    im_a_teacher: "I'm a Teacher"
-#    im_a_student: "I'm a Student"
+    classroom_edition: "Schulklassen Edition:"
+    learn_to_code: "Lerne zu Coden:"
+    play_now: "Spiel Jetzt"
+    im_a_teacher: "Ich bin ein Lehrer"
+    im_a_student: "Ich bin ein Schüler"
 #    learn_more: "Learn more"
 #    classroom_in_a_box: "A classroom in-a-box for teaching computer science."
 #    codecombat_is: "CodeCombat is a platform <strong>for students</strong> to learn computer science while playing through a real game."
